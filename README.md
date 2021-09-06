@@ -1,16 +1,24 @@
-### Hi there 👋
+<h1>荒木 呔</h1>
 
-<!--
-**Artzisan/Artzisan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Artzisan だよ！
 
-Here are some ideas to get you started:
+<h2>Interests</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<ul>
+    <li>User eXperience</li>
+    <li>iOS Development</li>
+    <li>Data Science</li>
+</ul>
+
+<h2>Status</h2>
+
+<a href="#stats" align="center">
+    <img align="center" alt="Artzisan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Artzisan&count_private=true&show_icons=true&include_all_commits=true&show_owner=true" />
+</a>
+<br />
+
+<br />
+<a href="#languages" align="center">
+    <img align="center" alt="Artzisan's Top Language" src="https://gh-readme-stats.krish-the-dev.vercel.app/api/top-langs/?username=Artzisan&layout=compact" />
+</a>
+<br />
